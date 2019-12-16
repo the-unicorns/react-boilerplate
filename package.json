@@ -1,7 +1,7 @@
 {
-  "name": "toy-robot",
+  "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "Toy Robot Simulator",
+  "description": "React Boilerplate",
   "repository": "git@github.com:hjemmel/toy-robot.git",
   "author": "Hans Jakob Emmel <hans.emmel@gmail.com>",
   "license": "MIT",
